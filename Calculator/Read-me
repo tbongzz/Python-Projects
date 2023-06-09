@@ -1,0 +1,20 @@
+Description
+Users of the calculator application can choose an operation and enter two integers using the command-line interface. 
+It applies the chosen operation to the supplied numbers and displays the outcome.
+
+Efficiency
+The program is made to perform fundamental mathematical computations quickly and simply. It makes advantage of the very 
+performant built-in Python operators for addition, subtraction, multiplication, and division.
+
+Contributing
+The calculator program is a single script at the moment. You can improve the functionality, include new features, or optimize 
+the code if you want to make a contribution. You are welcome to post pull requests, feature requests, and bug reports to the 
+GitHub repository.
+
+License
+
+This calculator application is available under the MIT License.
+
+Contact
+
+If you have any questions or suggestions regarding the calculator application, you can reach out to me at mabhenathabo15@gmail.com.
