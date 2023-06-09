@@ -1,0 +1,65 @@
+[Pool 1]
+[Question 1]
+What is the capital of France?
+A) London
+B) Paris
+C) Berlin
+D) Rome
+Answer: B
+
+[Question 2]
+Which planet is known as the Red Planet?
+A) Mars
+B) Venus
+C) Jupiter
+D) Mercury
+Answer: A
+
+[Question 3]
+Which country is known for the Great Wall?
+A) China
+B) India
+C) Japan
+D) Brazil
+Answer: A
+
+[Question 4]
+What is the largest continent by land area?
+A) Asia
+B) Europe
+C) North America
+D) Africa
+Answer: A
+
+[Pool 2]
+[Question 1]
+Who painted the Mona Lisa?
+A) Vincent van Gogh
+B) Pablo Picasso
+C) Leonardo da Vinci
+D) Claude Monet
+Answer: C
+
+[Question 2]
+What is the capital of Australia?
+A) Sydney
+B) Melbourne
+C) Canberra
+D) Brisbane
+Answer: C
+
+[Question 3]
+Which language is most widely spoken in Brazil?
+A) Portuguese
+B) Spanish
+C) English
+D) French
+Answer: A
+
+[Question 4]
+Which natural wonder is located in the United States and Canada?
+A) The Great Barrier Reef
+B) The Grand Canyon
+C) The Great Wall of China
+D) The Eiffel Tower
+Answer: B
